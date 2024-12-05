@@ -23,6 +23,7 @@ Key Insights
 2.	Top Counties: Benton, Island, and Skagit lead in EV adoption, reflecting strong growth patterns.
 3.	PHEVs vs. BEVs: Plug-In Hybrid Electric Vehicles slightly outperform Battery Electric Vehicles across multiple counties.
 4.	Usage Trends: Passenger vehicles dominate EV usage at 56%, with trucks accounting for the remaining 44%.
+![Screenshot 2024-11-27 205402](https://github.com/user-attachments/assets/eda45a34-ace8-40fa-9f3d-0818dbb1bc7c)
 
 Dashboard Features
 The dashboard visualizes:
